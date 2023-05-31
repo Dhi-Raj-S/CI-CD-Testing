@@ -1,4 +1,4 @@
-﻿// Pushing some changes
+﻿// Pushing some more changes
 namespace Microsoft.eShopWeb.Web;
 
 public static class Constants
